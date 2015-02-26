@@ -1,5 +1,10 @@
 # sklearn_pybrain_BP_adapter
 
+According to Gof (page 157), Adapter is:
+
+"Convert the interface of a class into another interface clients expect. Adapter lets classes work together that coldn't otherwise because of incompatible interfaces"
+
+
 
 userful links
 
